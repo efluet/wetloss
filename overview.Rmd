@@ -1,0 +1,51 @@
+---
+title: "Holocene Wetland Cover"
+author: "Etienne Fluet-Chouinard"
+date: "March 19, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+# set working dir
+setwd('C:/Users/efluet/Dropbox/Chap3_holocene_global_wetland_loss/scripts/r')
+# import packages
+source('./data_proc/import_libraries.r')
+
+library(knitr)    # For knitting document and include_graphics function
+library(ggplot2)  # For plotting
+library(png)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars, out.width = "50%"}
+
+
+# PLOT - wetland & peatland area 
+#source('./plots/lin_plot_stocker_sum_wet_peat_area.r')
+
+
+img1_path <- "C:/Users/efluet/Dropbox/Chap3_holocene_global_wetland_loss/output/figures/line_plot_sum_nat_wet_20th.png"
+img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+include_graphics(img1_path)
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE, out.width = "50%"}
+
+img1_path <- "C:/Users/efluet/Dropbox/Chap3_holocene_global_wetland_loss/output/figures/gif/wetloss.gif"
+#img1 <- readPNG(img1_path, native = TRUE, info = TRUE)
+include_graphics(img1_path)
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
