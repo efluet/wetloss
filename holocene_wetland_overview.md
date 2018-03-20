@@ -17,7 +17,7 @@ March 19, 2018
 -   We produce estimates of wetland extent and loss over the worlds surface outside of sampled regions of the world.
 -   These estimates help contextualize the present-day wetland cover within a long-term trend of degradation.
 
-#### Natural wetland cover
+### Natural wetland cover
 
 \***I have been using the beta version of HYDE3.2 for the analyis, but will also expand to include KK10.**
 
@@ -35,7 +35,7 @@ Figure 1: Global wetland area over years 1700-2010 from different models and sim
 Figure 2: Global wetland area from LPX-DYTOP over the late holocene. Wetland area is defined as the maximum monthly fraction over the course of that year.
 </p>
 
-#### Land use reconstructions
+### Land use reconstructions
 
 ***So far, I have been using the beta version of HYDE3.2 for the analyis, but will also include KK10.**
 * Both reconstructions rely on hindcasted population to estimate land use requirements that are spatially allocated based on land cover suitability and satellite information on current distribution, but are based on different sets of assumptions (Klein Goldewijk and Verburg 2013).
@@ -54,9 +54,9 @@ Figure 2: Global wetland area from LPX-DYTOP over the late holocene. Wetland are
 Figure 3: (top) Animation of natural wetland cover (LPXDYTOP-Stocker et al. 2017), (middle) cropland cover reconstruction, and (bottom) wetland loss.
 </p>
 
-<img src="https://s3.us-east-2.amazonaws.com/holocenewetlandloss/area_plot_sum_wetloss.png" alt="Figure 4: Timeline of wetland coversion, as represented in the animation of figure 3." width="40%" />
+<img src="https://s3.us-east-2.amazonaws.com/holocenewetlandloss/area_plot_sum_wetloss.png" alt="Figure 4: Timeline of wetland coversion, as represented in the animation of figure 3. This shows that when assuming random distribution of wetland and cropland, the intersection of the two generates very little wetland loss. This will be updated by fitting the mapped loss to the wetland conversion records." width="40%" />
 <p class="caption">
-Figure 4: Timeline of wetland coversion, as represented in the animation of figure 3.
+Figure 4: Timeline of wetland coversion, as represented in the animation of figure 3. This shows that when assuming random distribution of wetland and cropland, the intersection of the two generates very little wetland loss. This will be updated by fitting the mapped loss to the wetland conversion records.
 </p>
 
 ### Analysis of wetland loss patterns
@@ -79,4 +79,4 @@ Figure 6: Global map of time period of maximum wetland conversion rate.
 ### Next steps
 
 -   Expand the analysis to the full ensemble of wetland-reconstruction combinations.
--   Adjust wetland conversion rates with database of historic wetland loss (compiled from Dahl 1990, Van Asselen 2013, Davidson 2014, Paudel 2016, still missing Dixon 2016).
+-   Adjust wetland conversion rates with database of historic wetland loss (compiled from Dahl 1990, Van Asselen 2013, Davidson 2014, Paudel 2016, still missing data from Dixon 2016).
