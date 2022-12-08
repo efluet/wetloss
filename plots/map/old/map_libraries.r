@@ -1,0 +1,12 @@
+library(rworldmap)
+
+library(sp)
+library(maptools)
+library(rgdal)
+library(rgeos)
+library(raster)
+library(ggmap)
+library(scales)
+library(RColorBrewer)
+#library(Cairo)
+library(ggridges)
