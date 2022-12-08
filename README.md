@@ -41,6 +41,8 @@ Databases of historical records of wetland conversion have been compiled for met
 ___________________________________________________________________________________________________
 ## Results
 
+![alt text](https://s3.us-east-2.amazonaws.com/holocenewetlandloss/inund_stocker_post10k_v6.gif "Logo Title Text 1")
+
 ### Natural wetland over time 
 ![alt text](https://globalwetlandloss.s3.us-west-2.amazonaws.com/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
 
