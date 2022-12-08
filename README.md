@@ -29,6 +29,7 @@ Databases of historical records of wetland conversion have been compiled for met
 
 ![alt text](https://s3.us-east-2.amazonaws.com/holocenewetlandloss/inund_stocker_post10k_v6.gif "Logo Title Text 1")
 
+
 ### Land use reconstruction from HYDE3.2
 - Cropland
 - Rice cultivation
@@ -41,5 +42,5 @@ Databases of historical records of wetland conversion have been compiled for met
 ___________________________________________________________________________________________________
 ## Results
 
-
-
+### Natural wetland over time 
+![alt text](https://www.dropbox.com/s/76nz61epcq5a74o/grid_remwet_gif_orchidee_wad2m.gif?dl=0 "Logo Title Text 1")
