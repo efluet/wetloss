@@ -27,13 +27,6 @@ Databases of historical records of wetland conversion have been compiled for met
 - Simulations from WETCHIMP: ORCHIDEE, SDGVM & DLEM (Wania et al. 2013; Melton et al. 2013)
 - LPJ-Wsl (Zhang et al. 2016)
 
-![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
-
-![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/grid_drain_perlu_gif6.gif-01.png "drain_gif")
-
-![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/grid_remwet_gif_orchidee_wad2m.gif "remwet gif")
-
-
 
 
 ### Land use reconstruction from HYDE3.2
@@ -49,4 +42,9 @@ ________________________________________________________________________________
 ## Results
 
 ### Natural wetland over time 
-![alt text](https://www.dropbox.com/s/76nz61epcq5a74o/grid_remwet_gif_orchidee_wad2m.gif?dl=0 "Logo Title Text 1")
+
+![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
+
+![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/grid_drain_perlu_gif6.gif-01.png "drain_gif")
+
+![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/grid_remwet_gif_orchidee_wad2m.gif "remwet gif")
