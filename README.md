@@ -44,10 +44,12 @@ ________________________________________________________________________________
 ### Natural wetland over time 
 ![alt text](https://globalwetlandloss.s3.us-west-2.amazonaws.com/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
 
-
+![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
+a
 
 ![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
-
+b
 ![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/grid_drain_perlu_gif6.gif-01.png "drain_gif")
 
+c
 ![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/grid_remwet_gif_orchidee_wad2m.gif "remwet gif")
