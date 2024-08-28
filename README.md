@@ -27,8 +27,6 @@ Databases of historical records of wetland conversion have been compiled for met
 - Simulations from WETCHIMP: ORCHIDEE, SDGVM & DLEM (Wania et al. 2013; Melton et al. 2013)
 - LPJ-Wsl (Zhang et al. 2016)
 
-
-
 ### Land use reconstruction from HYDE3.2
 - Cropland
 - Rice cultivation
@@ -38,12 +36,13 @@ Databases of historical records of wetland conversion have been compiled for met
 ### Land use reconstruction from LUHv2
 - Forestry (primary & secondary)
 
+<!---
 ___________________________________________________________________________________________________
 ## Results
 
-![alt text](https://s3.us-east-2.amazonaws.com/holocenewetlandloss/inund_stocker_post10k_v6.gif "Logo Title Text 1")
+![alt text](https://s3.us-east-2.amazonaws.com/holocenewetlandloss/inund_stocker_post10k_v6.gif "Logo Title Text 1"))
 
-### Natural wetland over time 
+(### Natural wetland over time 
 ![alt text](https://globalwetlandloss.s3.us-west-2.amazonaws.com/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
 
 ![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/fig2abcd_s4_p1_0_avg_v7_manmod_july2022_v7_onlyoverlapmap-01.png "Logo Title Text 1")
@@ -55,3 +54,5 @@ b
 
 c
 ![alt text](https://s3.us-east-2.amazonaws.com/globalwetlandloss/grid_remwet_gif_orchidee_wad2m.gif "remwet gif")
+
+-->
