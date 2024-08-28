@@ -1,10 +1,10 @@
 # Global wetland loss reconstruction (1700-2020)
 
-## Background
-The history of conversion by humans is well documented (Davidson 2014), yet rates of change of wetland and surface water extent from satellite imagery since the 1990s indicates 6-Y% decrease (Prigent et al. 2012; Schroeder et al. 2015). Site-based  meta-analyses  over a longer time horizon indicate a 25-30% decline since 1970 (Dixon et al. 2016), of 55.6% since 1900 and 70.6% since 1700 (Davidson 2014). The rate from these meta-analyses exceeds previously held belief that 50% of the world's wetland had been lost since 1900 (Dahl 1990). The distribution of site records could be biased toward certain highly degraded sites and regions, possibly not directly extrapolated to global wetland cover (Hu et al. 2017). 
+## Overview 
+This repository contains scripts to reconstruct the spatial distribution and timing of wetland loss through conversion 
+to seven human land uses between 1700 and 2020. The scripts process and combine national and  subnational records of drainage and conversion with land-use maps and simulated wetland extents. The v1.01 reconstruction estimate that 3.4 million km2 (confidence interval 2.9–3.8) of inland wetlands have been lost since 1700, primarily for conversion to croplands, or a net loss of 21% (confidence interval 16–23%) of global wetland area.
 
-
-## Objective: Produce a geospatial estimate of global wetland cover
+## Objectives: Produce a geospatial estimate of global wetland cover
 * Estimate natural wetland extent converted to cropland and rice culture.
 * Analyze changes in wetland area, rates of change across geographic regions and over time.
 
